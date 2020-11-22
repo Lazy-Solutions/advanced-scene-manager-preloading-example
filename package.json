@@ -1,7 +1,7 @@
 {
   "name": "tutorials.advanced-scene-manager.preloading",
   "version": "1.0.0",
-  "displayName": "Preloading tutorial for Advanced Scene Manager.",
+  "displayName": "ASM Tutorial: Preloading",
   "description": "Adds an tutorial for preloading in Advanced Scene Manager.",
   "keywords": [],
   "author": {
