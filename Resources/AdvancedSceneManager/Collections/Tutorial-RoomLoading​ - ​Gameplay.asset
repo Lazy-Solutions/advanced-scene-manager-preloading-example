@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b924d8347ab3dab468c142134ad59a03, type: 3}
+  m_Name: "Tutorial-RoomLoading\u200B - \u200BGameplay"
+  m_EditorClassIdentifier: 
+  m_sceneTags:
+    keys:
+    - 
+    - Assets/Tutorial-RoomLoading/Scenes/Globals.unity
+    - Assets/Tutorial-RoomLoading/Scenes/Room_04.unity
+    - Assets/Tutorial-RoomLoading/Scenes/Room_03.unity
+    - Assets/Tutorial-RoomLoading/Scenes/Room_02.unity
+    - Assets/Tutorial-RoomLoading/Scenes/Room_01.unity
+    values:
+    - 
+    - Default
+    - DoNotOpen
+    - DoNotOpen
+    - DoNotOpen
+    - Default
+  m_scenes:
+  - Assets/AdvancedSceneManagerAddons/tutorials.advanced-scene-manager.preloading/advanced-scene-manager-preloading-example-main/Scenes/Globals.unity
+  - Assets/AdvancedSceneManagerAddons/tutorials.advanced-scene-manager.preloading/advanced-scene-manager-preloading-example-main/Scenes/Room_01.unity
+  - Assets/AdvancedSceneManagerAddons/tutorials.advanced-scene-manager.preloading/advanced-scene-manager-preloading-example-main/Scenes/Room_02.unity
+  - Assets/AdvancedSceneManagerAddons/tutorials.advanced-scene-manager.preloading/advanced-scene-manager-preloading-example-main/Scenes/Room_03.unity
+  - Assets/AdvancedSceneManagerAddons/tutorials.advanced-scene-manager.preloading/advanced-scene-manager-preloading-example-main/Scenes/Room_04.unity
+  m_loadingScreen: 
+  m_loadingScreenUsage: 3
+  m_activeScene: 
+  m_fadeDuration: 0.5
+  m_openAtStart: 1
+  m_clearUnusedAssetsOnOpenOrClose: 1
+  m_extraData: {fileID: 0}
+  m_title: Gameplay
